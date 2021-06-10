@@ -1,0 +1,24 @@
+#spinner-border
+{
+    align-items: center;
+}
+
+body
+{
+    background-color: black;
+}
+
+.exampleFormControlTextarea1
+{
+    color: darkgrey;
+}
+
+label
+{
+    color: darkgrey;
+}
+
+#list-group-item list-group-item-action
+{
+    color: black;
+}
